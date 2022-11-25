@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PDFConverter:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PDFConverter_jar</output-path>
+    <root id="archive" name="PDFConverter.jar">
+      <element id="module-output" name="PDFConverter" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Documents/CAT 201-INTEGRATED SOFTWARE DEVELOPMENT WORKSHOP/JAVA USEFULL COMAND/pdfbox-app-2.0.24.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

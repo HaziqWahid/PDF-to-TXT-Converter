@@ -1,0 +1,36 @@
+ 
+School of Computer Sciences 
+ 
+CAT201 Integrated Software 
+Development Workshop 
+ 
+ 
+CAT201 Project 
+ 
+Objectives: 
+  1. Construct a software based on JAVA programming language with user-friendly 
+graphical user interface in a team. 
+  2. Practice the latest Human-computer interaction (HCI) principles in designing, 
+assessing and implementing interactive computing systems. 
+ 
+Details: 
+CAT201 group project marks: 50/100 
+Type of project: Java desktop application/program or Java Android application. 
+Mark distribution: 
+? 20 % GUI 
+? 60 % Overall System  (GUI, codes, innovativeness) 
+? 10% Version Control 
+? 10% Final Report  
+Form a group consists of 3-4 members. 
+ 
+Important Dates: 
+Submission of proposal: 14 November 2021 
+Final program and report submission: 30 January 2021 
+Presentation and demo: 31 January 2021 – 6 January 2021 
+ 
+Proposal: 
+Submit a one-page report with group members, title and a short description of the project. 
+ 
+Final program and report: 
+Submit a full report that describes about the program, screen shots, and member’s 
+contributions; source codes and reference to libraries/API/engine.  
